@@ -40,8 +40,8 @@ Deployment included only these files
 # Setup MonoGame-wasm
 
 - Clone the two repositories below in the same folder  
-  https://github.com/RedMike/MonoGame/tree/feature/dotnet-wasm  
-  https://github.com/RedMike/SdlWasmSample/tree/monogame-net8  
+  https://github.com/friflo/MonoGame/tree/feature/dotnet-wasm  
+  https://github.com/friflo/SdlWasmSample/tree/monogame-net8  
   Ensure using the exact branches: `monogame-net8` and `dotnet-wasm`
 
 - Add the ProjectReference to `SdlWasmSample.csproj`

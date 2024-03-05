@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SdlWasmSample",
   "resources": {
-    "hash": "sha256-guFkqJKaD+YRYPibfP00KbVuOaDz+g9IwrF3rW+bj5U=",
+    "hash": "sha256-UQMmZ3xmDdq5qurJLfdhE6KZzjPM8uRnwsDAqhyZYY8=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.sxojud5nuz.js": "sha256-cpe0kauyRs5vhQs+QFsKvgjsaYCSTLDvDcgSEWmfx/w="
     },
@@ -21,6 +21,7 @@
       "Friflo.Json.Burst.wasm": "sha256-BLLn921Fd7wquQUqoFCSHu6BX7JdYCzqDJ2A/TsLT4U=",
       "Friflo.Json.Fliox.wasm": "sha256-vavDZ9G9Z9QDxawgId9nsn60cCvSXvfbD6w6LMeaz9k=",
       "Friflo.Json.Fliox.Annotation.wasm": "sha256-9i3MIOVkEAII/oSmg2Fag2ZcdKlgtTYRlD43UK8NxKI=",
+      "NVorbis.wasm": "sha256-/8ljo6M1M6r2Ejnne+c8SN7e45mr40w3W2ENZUwscsA=",
       "Microsoft.CSharp.wasm": "sha256-8nyldHzkTaUeTZ63Zp+JhpeQn6oscutjZPTmWsJeJN4=",
       "Microsoft.VisualBasic.Core.wasm": "sha256-Hlg/TgVrr8+Z6tbEwTiTu3r04uAp1z1sk7kg7RHiJbk=",
       "Microsoft.VisualBasic.wasm": "sha256-XiKUOiYt7BmIJw031WqkHbWTpRxx+JHjQASsFv11aQA=",
@@ -189,14 +190,14 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "MonoGame.Framework.wasm": "sha256-Aceh/oguQZQy55UcykvqzYueTqawGJpmv7Vd/O5oHGE=",
+      "MonoGame.Framework.wasm": "sha256-OYigR0MJk95+QvgKHoaeDWz/3bkvg/EABWUG8VwWonc=",
       "SDL2-CS.wasm": "sha256-AM7QDH8z0uLR+rLY6cnek+VF7ONWVxOLmOeFmbv5iiQ=",
-      "SdlWasmSample.wasm": "sha256-YVVuDgLKOGEdIikF1Cpixlw7P8BGliJrV7RPrKxOmnY="
+      "SdlWasmSample.wasm": "sha256-gipMeEgCvmKPXPDD5/TL4urKuZcfvtr1RsAMcR7bDyo="
     },
     "pdb": {
-      "MonoGame.Framework.pdb": "sha256-dBKv8G27ZCLfxxtujv4cO5RSnH0Qto+z67zzoTlWuUo=",
+      "MonoGame.Framework.pdb": "sha256-hpWClC+4gTSvc0mR2w34j0FM0nPlQgGrDICfI17DhiE=",
       "SDL2-CS.pdb": "sha256-YnwhjaBE8wVS2PX9xnQR5pVuwo6QEyh+ETqkCMEWfeA=",
-      "SdlWasmSample.pdb": "sha256-u6Cymes4EcnTSj8nGdrwB15APDfrG4Jcd209eTLdMXQ="
+      "SdlWasmSample.pdb": "sha256-QDJIPClawP0ChuCviWia3EUebyTNGYcXLiSBxays0n0="
     }
   },
   "cacheBootResources": true,

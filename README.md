@@ -44,13 +44,6 @@ Deployment included only these files
   https://github.com/friflo/SdlWasmSample/tree/monogame-net8  
   Ensure using the exact branches: `monogame-net8` and `dotnet-wasm`
 
-- Add the ProjectReference to `SdlWasmSample.csproj`
-    ```xml
-    <ItemGroup>
-        <ProjectReference Include="..\..\MonoGame\MonoGame.Framework\MonoGame.Framework.DesktopGL.csproj" />
-    </ItemGroup>
-    ```
-
 
 ## Deploy as static web page
 

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MonoGame-wasm",
   "resources": {
-    "hash": "sha256-vLHksKe7KIrkwRKwDEtnEvijC0KTMhBH6FSEWC4QsE8=",
+    "hash": "sha256-33ou2a9w1g40nxwgksLSDo5O/u9iy5j1qk5TvO2xAvA=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.3uzej17gfi.js": "sha256-Yy4zFXPKaishBirh2QWkvgwNyqjlaTHKUrHK60S8qQk="
     },
@@ -192,12 +192,12 @@
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
       "MonoGame.Framework.wasm": "sha256-/FQuuc+q4WAKOeyKIpKMleO2jI86FoYwDLWETue7umI=",
       "SDL2-CS.wasm": "sha256-AM7QDH8z0uLR+rLY6cnek+VF7ONWVxOLmOeFmbv5iiQ=",
-      "MonoGame-wasm.wasm": "sha256-yizg0ntQGMYlenDMozYZGaRHrwKgMHPa0XMQ5kq3uHA="
+      "MonoGame-wasm.wasm": "sha256-mPCYtgu9SHmHuK33LSmDUGvVUwZZdcPyon0LvLxWARg="
     },
     "pdb": {
       "MonoGame.Framework.pdb": "sha256-SXeMq8fiDR9gHqwNL09Xhno4YoLB0icxVzam5wKtgPk=",
       "SDL2-CS.pdb": "sha256-YnwhjaBE8wVS2PX9xnQR5pVuwo6QEyh+ETqkCMEWfeA=",
-      "MonoGame-wasm.pdb": "sha256-T7V+JxVkHe8rh3Wis0G/Q8EVNXi04sK5lTRdDI9k9n0="
+      "MonoGame-wasm.pdb": "sha256-LJCQ2QKDHobRPoXw8ogsk6BB+P2WZSR2wwudbMj6Kcc="
     }
   },
   "cacheBootResources": true,

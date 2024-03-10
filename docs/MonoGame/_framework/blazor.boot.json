@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "MonoGame-wasm",
   "resources": {
-    "hash": "sha256-33ou2a9w1g40nxwgksLSDo5O/u9iy5j1qk5TvO2xAvA=",
+    "hash": "sha256-WCis1JcLRGW7LAbHP6ty3/pgaNrwi6MTcUC+6I8zrek=",
     "jsModuleNative": {
-      "dotnet.native.8.0.2.3uzej17gfi.js": "sha256-Yy4zFXPKaishBirh2QWkvgwNyqjlaTHKUrHK60S8qQk="
+      "dotnet.native.8.0.2.klz6a3qbzz.js": "sha256-Yy4zFXPKaishBirh2QWkvgwNyqjlaTHKUrHK60S8qQk="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.2.8j60y5zbay.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
@@ -190,14 +190,14 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "MonoGame.Framework.wasm": "sha256-/FQuuc+q4WAKOeyKIpKMleO2jI86FoYwDLWETue7umI=",
+      "MonoGame.Framework.wasm": "sha256-QtkkU75cR3LzTIBfO3jA74GRIJiLnnOV0K3/3KbecAY=",
       "SDL2-CS.wasm": "sha256-AM7QDH8z0uLR+rLY6cnek+VF7ONWVxOLmOeFmbv5iiQ=",
-      "MonoGame-wasm.wasm": "sha256-mPCYtgu9SHmHuK33LSmDUGvVUwZZdcPyon0LvLxWARg="
+      "MonoGame-wasm.wasm": "sha256-/+RoCb3OR/qqc0PKts33zwc3Smbw1FDb2kT6F7+F/FQ="
     },
     "pdb": {
-      "MonoGame.Framework.pdb": "sha256-SXeMq8fiDR9gHqwNL09Xhno4YoLB0icxVzam5wKtgPk=",
+      "MonoGame.Framework.pdb": "sha256-hWGAVKEztFIv36/fzosI8Rtl5n+xBOuT9uQWCjPx/AY=",
       "SDL2-CS.pdb": "sha256-YnwhjaBE8wVS2PX9xnQR5pVuwo6QEyh+ETqkCMEWfeA=",
-      "MonoGame-wasm.pdb": "sha256-LJCQ2QKDHobRPoXw8ogsk6BB+P2WZSR2wwudbMj6Kcc="
+      "MonoGame-wasm.pdb": "sha256-+CdDOwMwzwCCVl/wTNkPHf3bubBdh5Rhbp1hOu/YU9Q="
     }
   },
   "cacheBootResources": true,
